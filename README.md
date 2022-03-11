@@ -13,12 +13,12 @@ I can design and develop a product that will rock your world plus your customers
 I just want to say that my philosophy is to always build stuff that people use.
 
 Also, I am confident that I am offering the best deals possible, awesome feedback from our customers is a kind of proof of my best services.
-<h5 align="center">👯I am Ready to make your dream true!👯</h5>
-<h5 align="center">🔥 Skills 🔥</h5>
+
+<div>
+<h5 align="left">🔥 Special Skills 🔥</h5>
 
 ####       ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen)   
 
-<div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" />
 - 🌱 I am confident in my skills of Solidity.<br>
 - 📫 I hope I can help you, whenever you feel some difficulties.<br>
