@@ -1,19 +1,40 @@
-### Hi 👋, I am BC Dev
+### Hi 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=80&lines=Welcome+here+!;I+AM+A+BlockChain+DEVELOPER.;)](https://git.io/typing-svg)
 <br/>
-<h3 align="center">Blockchain developer || Senior Full-stack devloper</h3>
-I have worked on several projects for clients in a variety of
-industries consisting of projects on both front-end and back-end technology stack in
-software development.
-Also concentrated on Blockchain, Cryptocurrency projects and participated
-in several Blockchain startups and enterprising companies to build ecosystem on Blockchain in software
-development.
+<h3 align="center">Senior Software Engineer</h3>
+I am a Senior Full Stack Developer with over 7 years of experience in building scalable and efficient web applications. I have strong expertise in both Front-end and Back-end development, with proficiency in TypeScript, JavaScript, React, Node.js, and Python. I also have experience in working with CI/CD tools and possess excellent communication skills.
 
-I can design and develop a product that will rock your world plus your customers will like it.
-I just want to say that my philosophy is to always build stuff that people use.
+- Front-end Development:
 
-Also, I am confident that I am offering the best deals possible, awesome feedback from our customers is a kind of proof of my best services.
+I am proficient in developing complex and dynamic user interfaces using React.js and TypeScript. I have hands-on experience in building responsive and cross-platform web applications using modern front-end frameworks and libraries. Additionally, I have experience in implementing various design patterns and architectures such as Flux, Redux, and MVC.
 
+1. ReactJS: I have developed several web applications using ReactJS, including custom components and integrating with various back-end APIs.
+2. AngularJS: I have developed a few web applications using AngularJS, including custom directives and services.
+3. VueJS: I have experience with VueJS, including developing a few small-scale web applications.
+.......
+
+- Back-end Development:
+
+I have extensive experience in building scalable and performant back-end applications using Node.js and Python. I am proficient in implementing RESTful APIs, websockets, and microservices architectures. Additionally, I have experience in working with databases such as MongoDB, MySQL, and PostgreSQL, and have expertise in query optimization, data modeling, and migration.
+
+1. NodeJS: I have developed several server-side applications using NodeJS, including API integrations, custom modules, and middleware.
+2. ExpressJS: I have extensive experience with ExpressJS, including building RESTful APIs, authentication, and authorization.
+3. Django, Flask, Laravel: I have experience building web applications using Djagno, Flask, Laravel, including database modeling and integration with third-party APIs.
+........
+
+- Blockchain DApp Development
+I have worked in multiple crypto startups, projects related to NFT, DeFi, Betting game using cryptocurrency and also in utility category. I hold multi-chain experience with leading Blockchain protocols like EOSIO, EVM.
+skills: Solidity, Hardhat/Truffle, web3.js, smart contract, token, NFT, ERC20, ERC721, ERC1155, and etc..
+
+- CI/CD Skills:
+
+I have experience in using various CI/CD tools such as Jenkins, Travis CI, and CircleCI for automating the software development process. I am proficient in implementing continuous integration and continuous deployment pipelines, and possess expertise in version control systems such as Git and GitHub.
+
+- Communication Skills:
+
+I possess excellent communication skills, both written and verbal, and have experience in working with cross-functional teams. I am able to effectively communicate technical information to both technical and non-technical stakeholders, and have experience in working with clients to understand their requirements and provide solutions that meet their needs.
+
+Overall, I am a dedicated and passionate developer who is always willing to learn and adapt to new technologies and challenges.
 <div>
 <h5 align="left">🔥 Special Skills 🔥</h5>
 
