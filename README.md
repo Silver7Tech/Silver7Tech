@@ -4,33 +4,33 @@
 <h2 align="center">Senior Software Engineer</h2>
 I am a Senior Full Stack Developer with over 7 years of experience in building scalable and efficient web applications. I have strong expertise in both Front-end and Back-end development, with proficiency in TypeScript, JavaScript, React, Node.js, and Python. I also have experience in working with CI/CD tools and possess excellent communication skills.
 
-<h5>Front-end Development:</h5>
+<h5>1. Front-end Development:</h5>
 
 I am proficient in developing complex and dynamic user interfaces using React.js and TypeScript. I have hands-on experience in building responsive and cross-platform web applications using modern front-end frameworks and libraries. Additionally, I have experience in implementing various design patterns and architectures such as Flux, Redux, and MVC.
 
-1. ReactJS: I have developed several web applications using ReactJS, including custom components and integrating with various back-end APIs.
-2. AngularJS: I have developed a few web applications using AngularJS, including custom directives and services.
-3. VueJS: I have experience with VueJS, including developing a few small-scale web applications.
+- ReactJS: I have developed several web applications using ReactJS, including custom components and integrating with various back-end APIs.
+- AngularJS: I have developed a few web applications using AngularJS, including custom directives and services.
+- VueJS: I have experience with VueJS, including developing a few small-scale web applications.
 .......
 
-- Back-end Development:
+<h5>2. Back-end Development:</h5>
 
 I have extensive experience in building scalable and performant back-end applications using Node.js and Python. I am proficient in implementing RESTful APIs, websockets, and microservices architectures. Additionally, I have experience in working with databases such as MongoDB, MySQL, and PostgreSQL, and have expertise in query optimization, data modeling, and migration.
 
-1. NodeJS: I have developed several server-side applications using NodeJS, including API integrations, custom modules, and middleware.
-2. ExpressJS: I have extensive experience with ExpressJS, including building RESTful APIs, authentication, and authorization.
-3. Django, Flask, Laravel: I have experience building web applications using Djagno, Flask, Laravel, including database modeling and integration with third-party APIs.
+- NodeJS: I have developed several server-side applications using NodeJS, including API integrations, custom modules, and middleware.
+- ExpressJS: I have extensive experience with ExpressJS, including building RESTful APIs, authentication, and authorization.
+- Django, Flask, Laravel: I have experience building web applications using Djagno, Flask, Laravel, including database modeling and integration with third-party APIs.
 ........
 
-- Blockchain DApp Development
+<h5>3. Blockchain DApp Development</h5>
 I have worked in multiple crypto startups, projects related to NFT, DeFi, Betting game using cryptocurrency and also in utility category. I hold multi-chain experience with leading Blockchain protocols like EOSIO, EVM.
 skills: Solidity, Hardhat/Truffle, web3.js, smart contract, token, NFT, ERC20, ERC721, ERC1155, and etc..
 
-- CI/CD Skills:
+<h5>4. CI/CD Skills:</h5>
 
 I have experience in using various CI/CD tools such as Jenkins, Travis CI, and CircleCI for automating the software development process. I am proficient in implementing continuous integration and continuous deployment pipelines, and possess expertise in version control systems such as Git and GitHub.
 
-- Communication Skills:
+<h5>5. Communication Skills:</h5>
 
 I possess excellent communication skills, both written and verbal, and have experience in working with cross-functional teams. I am able to effectively communicate technical information to both technical and non-technical stakeholders, and have experience in working with clients to understand their requirements and provide solutions that meet their needs.
 
