@@ -4,7 +4,7 @@
 <h2 align="center">Senior Software Engineer</h2>
 I am a Senior Full Stack Developer with over 7 years of experience in building scalable and efficient web applications. I have strong expertise in both Front-end and Back-end development, with proficiency in TypeScript, JavaScript, React, Node.js, and Python. I also have experience in working with CI/CD tools and possess excellent communication skills.
 
-- Front-end Development:
+<h5>Front-end Development:</h5>
 
 I am proficient in developing complex and dynamic user interfaces using React.js and TypeScript. I have hands-on experience in building responsive and cross-platform web applications using modern front-end frameworks and libraries. Additionally, I have experience in implementing various design patterns and architectures such as Flux, Redux, and MVC.
 
