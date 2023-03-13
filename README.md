@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=80&lines=Welcome+here+!;I+AM+A+SENIOR+SOFTWARE+ENGINEER.;)](https://git.io/typing-svg)
 <br/>
 <h2 align="center">Senior Software Engineer</h2>
+- - -
 I am a Senior Full Stack Developer with over 7 years of experience in building scalable and efficient web applications. I have strong expertise in both Front-end and Back-end development, with proficiency in TypeScript, JavaScript, React, Node.js, and Python. I also have experience in working with CI/CD tools and possess excellent communication skills.
 
 <h5>1. Front-end Development:</h5>
@@ -11,7 +12,7 @@ I am proficient in developing complex and dynamic user interfaces using React.js
 - ReactJS: I have developed several web applications using ReactJS, including custom components and integrating with various back-end APIs.
 - AngularJS: I have developed a few web applications using AngularJS, including custom directives and services.
 - VueJS: I have experience with VueJS, including developing a few small-scale web applications.
-.......
+.....
 
 <h5>2. Back-end Development:</h5>
 
@@ -20,7 +21,7 @@ I have extensive experience in building scalable and performant back-end applica
 - NodeJS: I have developed several server-side applications using NodeJS, including API integrations, custom modules, and middleware.
 - ExpressJS: I have extensive experience with ExpressJS, including building RESTful APIs, authentication, and authorization.
 - Django, Flask, Laravel: I have experience building web applications using Djagno, Flask, Laravel, including database modeling and integration with third-party APIs.
-- - -
+......
 
 <h5>3. Blockchain DApp Development</h5>
 I have worked in multiple crypto startups, projects related to NFT, DeFi, Betting game using cryptocurrency and also in utility category. I hold multi-chain experience with leading Blockchain protocols like EOSIO, EVM.
