@@ -20,7 +20,7 @@ I have extensive experience in building scalable and performant back-end applica
 - NodeJS: I have developed several server-side applications using NodeJS, including API integrations, custom modules, and middleware.
 - ExpressJS: I have extensive experience with ExpressJS, including building RESTful APIs, authentication, and authorization.
 - Django, Flask, Laravel: I have experience building web applications using Djagno, Flask, Laravel, including database modeling and integration with third-party APIs.
-........
+- - -
 
 <h5>3. Blockchain DApp Development</h5>
 I have worked in multiple crypto startups, projects related to NFT, DeFi, Betting game using cryptocurrency and also in utility category. I hold multi-chain experience with leading Blockchain protocols like EOSIO, EVM.
