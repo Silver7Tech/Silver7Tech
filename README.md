@@ -1,7 +1,7 @@
-### Hi 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=80&lines=Welcome+here+!;I+AM+A+BlockChain+DEVELOPER.;)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=80&lines=Welcome+here+!;I+AM+A+SENIOR+SOFTWARE+ENGINEER.;)](https://git.io/typing-svg)
 <br/>
-<h3 align="center">Senior Software Engineer</h3>
+<h2 align="center">Senior Software Engineer</h2>
 I am a Senior Full Stack Developer with over 7 years of experience in building scalable and efficient web applications. I have strong expertise in both Front-end and Back-end development, with proficiency in TypeScript, JavaScript, React, Node.js, and Python. I also have experience in working with CI/CD tools and possess excellent communication skills.
 
 - Front-end Development:
